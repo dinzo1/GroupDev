@@ -6,3 +6,4 @@ Line4.
 line5.
 bla-bla!
 THIS NEW TEXT!
+SUPER TEST!
