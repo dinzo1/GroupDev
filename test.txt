@@ -1,5 +1,6 @@
 hello world!
 TEST OK!!!
+ALL OK!
 New line.
 Line4.
 line5.
